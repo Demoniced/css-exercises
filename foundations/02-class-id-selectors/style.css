@@ -1,0 +1,16 @@
+.classs{
+    background-color:red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#even{
+    color:blue;
+    font-size:36px;
+}
+.weird{
+    font-size:24px;
+}
+#another{
+    background:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
